@@ -5,8 +5,8 @@ These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (
 "Scissors" is identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held upright in the air.
 A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a win for one player and a loss for the other.</h4><p/>
 
-
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png" width="300" height="300"></p>
+<p> Here is pictorial representation of how the three game elements interact</p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png" width="300" height="300"></p>
 
 
 
