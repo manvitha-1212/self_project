@@ -15,7 +15,7 @@ A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a w
 A list of elements is created for computer to randomly choose between them . The list contains "Rock", "Paper", "Scissors". 
  When player is True, the execution stops and when its false the program asks for input whether "Rock", "Paper" or  "Scissors".</p>
 
-<h6><font color="red"> Alert : Use correct spelling considering upper and lower case letters as python is case sensitive language.</font></h6>
+<h6><fontcolor="red"> Alert : Use correct spelling considering upper and lower case letters as python is case sensitive language.</font></h6>
 
 <h3>Running the code</h3>
 <p>The code is written on Windows, so windows users can it on windows terminals and other users can also run it in their resepctive terminals . And for commands please click the link given below : </br> <a href="https://www.lemoda.net/windows/windows2unix/windows2unix.html">Link for commands</a></p>
@@ -44,7 +44,11 @@ pip help
 ```
 
 In case pip is not installed in your system , click the link given below for installing pip 
-<a href"https://phoenixnap.com/kb/install-pip-windows">For installing PIP</a>
+<a href="https://phoenixnap.com/kb/install-pip-windows">For installing PIP</a>
+
+
+<h2>THANK YOU !! 
+ ENJOY PALYING </h2>
 
 
 
