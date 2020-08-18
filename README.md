@@ -19,5 +19,5 @@ rps.py
 ```
  When player is True, the execution stops and when its false the program asks for input whether "Rock", "Paper" or  "Scissors".</p>
 
-Alert:
+<h6> Alert : Use correct spelling considering upper and lower case letters as python is case sensitive language.</h6>
 
