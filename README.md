@@ -22,6 +22,6 @@ rps.py
 <h6> Alert : Use correct spelling considering upper and lower case letters as python is case sensitive language.</h6>
 
 <h3>Running the code</h3>
-<p>The code is written on Windows, so windows users can it on windows terminals and other users can also run it in their resepctive terminals . And for commands please click the link given below </br> <a href="https://www.lemoda.net/windows/windows2unix/windows2unix.html"></p>
+<p>The code is written on Windows, so windows users can it on windows terminals and other users can also run it in their resepctive terminals . And for commands please click the link given below </br> <a href="https://www.lemoda.net/windows/windows2unix/windows2unix.html">Link foe commands</a></p>
 
 
