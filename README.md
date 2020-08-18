@@ -13,9 +13,10 @@ A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a w
 <h3>Implemented solution : </h3>
 <p>Basically a class named Rps is created. The function game contains the logic of oth player and the computer.
 A list of elements is created for computer to randomly choose between them . The list contains "Rock", "Paper", "Scissors". The user have to run the code using :
- ```python 
- rps.py
- ``` 
+
+```python
+rps.py
+```
  When player is True, the execution stops and when its false the program asks for input whether "Rock", "Paper" or  "Scissors".</p>
 
 Alert:
