@@ -24,16 +24,18 @@ rps.py
 <h3>Running the code</h3>
 <p>The code is written on Windows, so windows users can it on windows terminals and other users can also run it in their resepctive terminals . And for commands please click the link given below : </br> <a href="https://www.lemoda.net/windows/windows2unix/windows2unix.html">Link for commands</a></p>
 
-<h5>For cloning into respository</h5>
-```python
+<p><h5>For cloning into respository</h5>
+```
 git clone https://github.com/manvitha-1212/self_project    
 
 ```
-<h5>To run the code execute the below comment</h5>
+</p>
+<p><h5>To run the code execute the below comment</h5>
 
-```python
+```
 rps.py   
 
 ```
+</p>
 
 
