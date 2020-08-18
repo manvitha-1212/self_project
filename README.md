@@ -37,7 +37,7 @@ rps.py
 
 <h5>In case of errors : </h5>
 
-If the program is running on your system please use command :
+If the program is not running on your system please use command :
 ```
 pip help   
 
