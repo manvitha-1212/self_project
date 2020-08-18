@@ -12,11 +12,7 @@ A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a w
 <p>It is game designed for a single player vs computer. Majorly it a input from user. The user have to choose either rock , paper or scissors as input and computer randomly plays its part .   </p>
 <h3>Implemented solution : </h3>
 <p>Basically a class named Rps is created. The function game contains the logic of oth player and the computer.
-A list of elements is created for computer to randomly choose between them . The list contains "Rock", "Paper", "Scissors". The user have to run the code using :
-
-```python
-rps.py
-```
+A list of elements is created for computer to randomly choose between them . The list contains "Rock", "Paper", "Scissors". 
  When player is True, the execution stops and when its false the program asks for input whether "Rock", "Paper" or  "Scissors".</p>
 
 <h6><font color="red"> Alert : Use correct spelling considering upper and lower case letters as python is case sensitive language.</font></h6>
@@ -37,6 +33,20 @@ git clone https://github.com/manvitha-1212/self_project
 rps.py   
 
 ```
+
+
+<h5>In case of errors : </h5>
+
+If the program is running on your system please use command :
+```
+pip help   
+
+```
+
+In case pip is not installed in your system , click the link given below for installing pip 
+<a href"https://phoenixnap.com/kb/install-pip-windows">For installing PIP</a>
+
+
 
 
 
