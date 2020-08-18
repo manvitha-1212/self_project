@@ -8,6 +8,8 @@ A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a w
 <p> Here is pictorial representation of how the three game elements interact</p>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png" width="300" height="300"></p>
 
+<p>```bash pip```</p>
+
 
 
 
