@@ -19,9 +19,21 @@ rps.py
 ```
  When player is True, the execution stops and when its false the program asks for input whether "Rock", "Paper" or  "Scissors".</p>
 
-<h6> Alert : Use correct spelling considering upper and lower case letters as python is case sensitive language.</h6>
+<h6><font color="red"> Alert : Use correct spelling considering upper and lower case letters as python is case sensitive language.</font></h6>
 
 <h3>Running the code</h3>
-<p>The code is written on Windows, so windows users can it on windows terminals and other users can also run it in their resepctive terminals . And for commands please click the link given below </br> <a href="https://www.lemoda.net/windows/windows2unix/windows2unix.html">Link foe commands</a></p>
+<p>The code is written on Windows, so windows users can it on windows terminals and other users can also run it in their resepctive terminals . And for commands please click the link given below : </br> <a href="https://www.lemoda.net/windows/windows2unix/windows2unix.html">Link for commands</a></p>
+
+<h5>For cloning into respository</h5>
+```python
+git clone https://github.com/manvitha-1212/self_project    
+
+```
+<h5>To run the code execute the below comment</h5>
+
+```python
+rps.py   
+
+```
 
 
