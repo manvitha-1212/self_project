@@ -11,5 +11,5 @@ A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a w
  <h3>Problem statement </h3>
 <p>It is game designed for a single player vs computer. Majorly it a input from user. The user have to choose either rock , paper or scissors as input and computer randomly plays its part .   </p>
 <h3>Implemented solution </h3>
-<p></p>
+<p> </p>
 
