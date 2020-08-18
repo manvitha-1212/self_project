@@ -43,12 +43,12 @@ pip help
 
 ```
 
-In case pip is not installed in your system , click the link given below for installing pip 
+In case pip is not installed in your system , click the link given below for installing pip : </br>
 <a href="https://phoenixnap.com/kb/install-pip-windows">For installing PIP</a>
 
 
-<h2>THANK YOU !! 
- ENJOY PALYING </h2>
+<p align=center ><h2>THANK YOU !! 
+ ENJOY PALYING </h2></p>
 
 
 
