@@ -9,7 +9,7 @@ A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a w
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png" width="300" height="300"></p>
 
  <h3>Problem statement : </h3>
-<p>It is game designed for a single player vs computer. Majorly it requires a input from user. The user have to choose either rock , paper or scissors as input and computer randomly plays its part .   </p>
+<p>It is game designed for a single player vs computer. Initially it requires a input from user. The user have to choose either rock , paper or scissors as input and computer randomly plays its part .   </p>
 <h3>Implemented solution : </h3>
 <p>Basically a class named Rps is created. The function game contains the logic of oth player and the computer.
 A list of elements is created for computer to randomly choose between them . The list contains "Rock", "Paper", "Scissors". 
